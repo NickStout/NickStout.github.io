@@ -1,5 +1,7 @@
+*{margin:0;padding:0;box-sizing:border-box;}
+img { width:300px; }
 body {
-	background-color: red;
+	background-image: url("file:///Users/nicholasstout/Documents/GitHub/nickstout.github.io/unit_3/images/selfport1.tif") ;
 }
 
 h1, p {

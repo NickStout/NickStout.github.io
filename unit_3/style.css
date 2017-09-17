@@ -1,4 +1,4 @@
-*{margin:0;padding:0;box-sizing:border-box;}
+{margin:0;padding:0;box-sizing:border-box;}
 img { width:300px; }
 body {
      image:url("..darden.jpeg") ;
@@ -30,7 +30,7 @@ h1, {
 a {
 	color: #FF200;
 #intro {
-	background-image: url("../images/selfport.jpg")
+	background-image: url("file:///Users/nicholasstout/Documents/GitHub/nickstout.github.io/unit_3/images/selfport1.jpg")
 	background-size: cover;
 	padding: 10em 0 0;
 	height:85vh;
